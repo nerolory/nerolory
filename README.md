@@ -61,6 +61,7 @@ SPA-based standalone LLM chat application with a desktop installer.
 
 #### [chronos_event_manager](https://github.com/nerolory/chronos_event_manager)
 Comprehensive event management system with an interactive calendar and a Kinetic Watch display (28×8 grid of analog clock faces forming dynamic visuals).
+![Kinetic Watch preview](docs/kinetic-watch-preview.png)
 - **Stack:** PHP 8, Laravel, Vue.js, Docker, Composer
 - **Quality:** PHPStan level 8 compliant, distributed as a Composer package, easy to integrate into existing Laravel projects.
 
