@@ -1,6 +1,8 @@
 # Hi there! I'm Alexander Borisov
 ### Full-Stack Developer · PHP / Python / Vue
 
+[Русская версия](docs/ru/README.md)
+
 Self-taught software engineer with **4+ years of commercial experience** at QSOFT (one of the largest IT companies in Russia), delivering **70+ projects** across e-commerce, fintech, and large-scale microservice systems. Grew into a **Team Lead** role — managed developers, mentored juniors, and owned architectural decisions.
 
 Before IT, I spent 8 years working in a hospital — which taught me to stay calm and act fast when production is on fire. That skill came in handy more than once.
@@ -54,6 +56,12 @@ Before IT, I spent 8 years working in a hospital — which taught me to stay cal
 
 *Personal projects built to showcase code quality, architecture, and stack integration.*
 
+#### [cms_blog](https://github.com/nerolory/cms_blog)
+Production-oriented Laravel 13 CMS blog with an AI sidecar and token billing.
+- **Stack:** PHP 8.3, Laravel 13, PostgreSQL, Redis, Filament 4, FastAPI, Docker, Helm
+- **Features:** Post CRUD with moderation, RBAC, SEO, Sanctum API, comment analysis and AI summaries for bloggers, mock/production payment gateway for tokens.
+- **Quality:** PHPStan L9, 200+ PHPUnit tests, Playwright E2E, Vitest + TypeScript, multi-channel deploy (native, Docker, Kubernetes).
+
 #### [pulsar_ai_manager](https://github.com/nerolory/pulsar_ai_manager)
 SPA-based standalone LLM chat application with a desktop installer.
 - **Stack:** Python, Vue.js, Docker
@@ -91,7 +99,8 @@ Building products with a small team — including a community-focused communicat
 
 ### Education
 
-Self-taught + on-the-job training and internship at QSOFT.
+**[GeekBrains](https://geekbrains.ru)** — professional training with certificates.
+On-the-job training and internship at QSOFT, including **Bitrix** and **Laravel** courses.
 Continuous professional development.
 
 ---
